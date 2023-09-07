@@ -25,7 +25,7 @@ I'm a versatile developer with a passion for crafting exceptional software solut
 
 
 **Let's Connect:**
-I'm always eager to connect with fellow developers, collaborate on exciting projects, or simply discuss all things tech. Whether you're interested in web development with MERN or Java-based solutions, feel free to reach out via [LinkedIn], [email], or visit my [portfolio website] to explore my work and experiences.
+I'm always eager to connect with fellow developers, collaborate on exciting projects, or simply discuss all things tech. Whether you're interested in web development with MERN or Java-based solutions, feel free to reach out via bibekprasadyadav70@gmail.com to explore my work and experiences.
 
 Let's code and innovate together! 🚀☕
 
