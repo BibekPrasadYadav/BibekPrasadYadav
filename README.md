@@ -1,9 +1,9 @@
 ### Hi there 👋
-👋 Hello, I'm [Bibek Prasad Yadav]!
+👋 Hello, I'm Bibek Prasad Yadav!
 
 🌐 Full Stack Developer | MERN Stack Enthusiast | Java Aficionado | Crafting Seamless Web and Java Solutions
 
-📧 [bibekprasadyadav70@gmail.com]
+📧 bibekprasadyadav70@gmail.com
 
 **About Me:**
 I'm a versatile developer with a passion for crafting exceptional software solutions across multiple stacks. Whether it's harnessing the power of the MERN stack to create captivating web experiences or diving into the world of Java for robust, enterprise-grade applications, I thrive on tackling diverse challenges in the realm of software development.
