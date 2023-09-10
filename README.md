@@ -10,7 +10,7 @@ I'm a versatile developer with a passion for crafting exceptional software solut
 
 **Skills:**
 - Front-End: HTML, CSS, JavaScript (React, Redux)
-- Back-End: Node.js, Express.js, Spring Boot
+- Back-End: Node.js, Express.js, Spring Boot, Java
 - Databases: MongoDB, MySQL, Hibernate
 - RESTful APIs
 - Version Control: Git, GitHub Actions
